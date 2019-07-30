@@ -1,0 +1,1 @@
+furnace.addRecipe(<industrialforegoing:plastic>, <ic2:crafting:0>);

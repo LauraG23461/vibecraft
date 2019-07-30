@@ -1,4 +1,4 @@
-ignoreUpdate:0
+ignoreUpdate:48
 updateNotification:true
 debug:false
 lighting:true
@@ -9,4 +9,4 @@ terrainSlopes:true
 terrainDepth:true
 footsteps:true
 flowers:true
-globalVersion:17
+globalVersion:13

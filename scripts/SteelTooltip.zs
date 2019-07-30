@@ -1,0 +1,1 @@
+<ic2:ingot:5>.addTooltip(format.green("Blast furnace, or just a blast?"));
