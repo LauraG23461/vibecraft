@@ -1,0 +1,9 @@
+waypoint:Home:H:94:64:271:9:true:0:gui.xaero_default:false:0
+waypoint:Fuck:F:211:70:717:11:false:0:gui.xaero_default:false:0
+waypoint:Village:V:549:63:307:10:false:0:gui.xaero_default:false:0
+waypoint:Home:H:600:61:257:14:false:0:gui.xaero_default:false:0
+waypoint:Tower:T:1478:63:377:10:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:1059:112:1004:0:false:0:gui.xaero_default:false:0
+waypoint:Dig Site:D:2493:70:1225:6:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:2513:109:1313:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint:D:2511:102:1316:0:false:1:gui.xaero_default:false:0

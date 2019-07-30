@@ -1,0 +1,5 @@
+InfoHeader=The game will not start due to insufficient memory, the current memory allocation is [AllocatedMemory]MB.
+InfoLine1=Minimum: 2500MB/2.5GB - You can play, but I would set the distance down to 4.
+InfoLine2=Recommended: 3500MB/3.5GB - You can play, but set it higher if turning up distance past 12.
+InfoFooter=Install 64bit java, then go into Technic Launcher options under Java Settings to set the amount.
+RedirectLink=https://www.reddit.com/r/Tekxit/comments/alnj34/tekxit_official_links/
