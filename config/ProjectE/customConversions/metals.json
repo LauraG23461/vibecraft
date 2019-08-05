@@ -9,7 +9,7 @@
     },
     "conversion": [
       {"evalOD": true, "o": "OD|ingotObsidian", "c": 2, "i": {"minecraft:obsidian|0": 1}},
-      {"evalOD": true, "o": "OD|ingotGold", "c": 1, "i": {"OD|ingotIron":8}},
+      {"evalOD": true, "o": "OD|ingotGold", "c": 1, "i": {"OD|ingotIron":1}},
       {"evalOD": true, "o": "OD|ingotCopper", "c": 2, "i": {"OD|ingotIron":1}},
       {"evalOD": true, "o": "OD|ingotTin", "c": 1, "i": {"OD|ingotIron":1}},
       {"evalOD": true, "o": "OD|ingotBronze", "c": 4, "i": {"OD|ingotCopper": 3, "OD|ingotTin": 1}},

@@ -237,7 +237,7 @@
       "minecraft:record_wait|0": 2048,
       "minecraft:record_ward|0": 2048,
 
-      "minecraft:diamond|0": 8192,
+      "minecraft:diamond|0": 512,
       "minecraft:flint|0": 4,
       "minecraft:coal|0": 128,
       "minecraft:redstone|0": 64,
@@ -249,7 +249,7 @@
       "minecraft:dye|3": 128,
       "minecraft:dye|4": 864,
       "minecraft:enchanted_book|0": 2048,
-      "minecraft:emerald|0": 16384,
+      "minecraft:emerald|0": 256,
       "minecraft:nether_star|0": 139264,
       "minecraft:clay_ball|0": 1,
       "minecraft:bone|0": 144,
